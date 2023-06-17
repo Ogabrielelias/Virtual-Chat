@@ -6,12 +6,17 @@ A aplicação encontra-se em sua fase inicial, mas pretende receber atualizaçõ
 
 ## Recursos
 
-Registro e login de usuários: os usuários podem criar uma conta única e fazer login de forma segura na aplicação.
-Autenticação e criptografia dos dados: os dados dos usuários e as comunicações são protegidos por meio de técnicas de autenticação e criptografia.
-Edição do perfil do usuário: os usuários podem editar suas informações.
-Chats privados e em grupo: os usuários podem criar chats privados individuais ou participar de chats em grupo para interagir com outros usuários.
-Chaves de acesso únicas: cada chat privado ou grupo possui uma chave de acesso exclusiva, que pode ser compartilhada para permitir o acesso de amigos ou colegas.
-Mensagens em tempo real: as mensagens são atualizadas em tempo real, exibindo o nome do remetente e os horários de envio.
+**Registro e login de usuários**: os usuários podem criar uma conta única e fazer login de forma segura na aplicação.
+
+**Autenticação e criptografia dos dados**: os dados dos usuários e as comunicações são protegidos por meio de técnicas de autenticação e criptografia.
+
+**Edição do perfil do usuário**: os usuários podem editar suas informações.
+
+**Chats privados e em grupo**: os usuários podem criar chats privados individuais ou participar de chats em grupo para interagir com outros usuários.
+
+**Chaves de acesso únicas**: cada chat privado ou grupo possui uma chave de acesso exclusiva, que pode ser compartilhada para permitir o acesso de amigos ou colegas.
+
+**Mensagens em tempo real**: as mensagens são atualizadas em tempo real, exibindo o nome do remetente e os horários de envio.
 
 ## Instalação
 
